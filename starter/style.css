@@ -109,6 +109,7 @@ span{
     justify-content: center;
     padding: 30px 0;
     flex-wrap: wrap;
+    background: var(--gray-color);
 }
 .third-leftdiv{
     height: 460px;
