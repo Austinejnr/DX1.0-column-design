@@ -150,4 +150,8 @@ footer{
     font-size: 25px;
     margin: 0 5px;
 }
+.footericons-container a{
+    color: var(--white-color);
+    text-decoration: none;
+    }
 /* footer section ends here */
